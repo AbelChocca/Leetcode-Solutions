@@ -23,12 +23,17 @@ Este repositorio contiene mis soluciones a problemas de [LeetCode](https://leetc
 | 13 | Baseball Game                                        | [🔗](https://leetcode.com/problems/baseball-game/)                     | [Python](easy/easy_013_baseball_game.py)          |
 | 14 | Robot Return to Origin                               | [🔗](https://leetcode.com/problems/robot-return-to-origin/)            | [Python](easy/easy_014_robot_return_origin.py)    |
 | 15 | Winner of Tic Tac Toe Game                           | [🔗](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/) | [Python](easy/easy_015_winner_tictactoe.py)       |
+| 16 | Richest Customer Wealth                              | [🔗](https://leetcode.com/problems/richest-customer-wealth/)           | [Python](easy/easy_016_richest_customer_wealth.py) |
+| 17 | Matrix Diagonal Sum                                  | [🔗](https://leetcode.com/problems/matrix-diagonal-sum/)               | [Python](easy/easy_017_matrix_diagonal_sum.py)     |
+
 
 ### 🟡 Medium
 
 | #  | Problema                     | Enlace                                                                 | Solución                                   |
 |----|------------------------------|------------------------------------------------------------------------|--------------------------------------------|
 | 1  | Robot Bounded in Circle      | [🔗](https://leetcode.com/problems/robot-bounded-in-circle/)           | [Python](medium/medium_001_robot_bounded_circle.py) |
+| 2  | Spiral Matrix                                        | [🔗](https://leetcode.com/problems/spiral-matrix/)                     | [Python](medium/medium_002_spiral_matrix.py)        |
+| 3  | Set Matrix Zeroes                                    | [🔗](https://leetcode.com/problems/set-matrix-zeroes/)                 | [Python](medium/medium_003_set_matrix_zeroes.py)    |
 
 ### 🔴 Hard
 
